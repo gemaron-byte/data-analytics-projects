@@ -110,6 +110,11 @@ Removes seasonal noise for board-level or CFO reporting.
 - **Dataset:** CSV — enterprise data center energy portfolio, full year 2024
 
 ---
+## Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| [Enterprise Energy Cost & Load Analytics](./energy-cost-load-analytics) | SQL | Demand charge analysis across a 5-site, $204M data center portfolio |
 
 ## About
 
